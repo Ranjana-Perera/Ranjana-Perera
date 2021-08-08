@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://github.com/Ranjana-Perera https://www.linkedin.com/in/ranjana-perera/
 - 😄 Pronouns: she/her
 - 🙂 I love to explore and learn more about modern technologies,tools and frameworks using in the software industry.
--->
+
