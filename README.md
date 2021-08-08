@@ -10,6 +10,3 @@
 - 😄 Pronouns: she/her
 - 🙂 I love to explore and learn more about modern technologies,tools and frameworks using in the software industry.
 
-<details>
-  <img align = "left" alt = "aardperera's GitHub Stats" src = "https://ghp-fb-d826-lyq1-ji-oeitsm12-nm-p5-wm-e9v-k4-gsvx-j.vercel.app/"/> 
-</details>  
