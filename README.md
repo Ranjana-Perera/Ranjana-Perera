@@ -1,5 +1,7 @@
 ### Hi, I'm Ranjana Perera👋🙂
-
+  
+- 👩‍🎓 I'm an undergraduate student at Sabaragamuwa University, Sri Lanka
+- 💻 I'm following a BSc.(Special)in Computer Science and Technology degree.
 - 🔭 I’m currently participating in RSLUP Trainning.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on open source software development projects.
